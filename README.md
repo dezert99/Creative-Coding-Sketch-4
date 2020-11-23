@@ -6,4 +6,4 @@ tree
 ice-cream
 plane
 piano
-etc
+etc...
