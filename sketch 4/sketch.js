@@ -18,8 +18,9 @@ function decodeHtml(html) {
 
 async function retriveArticles() {
     let looking = true;
-    let builtArticles = []
-    articles = []
+    let builtArticles = [];
+    articles = [];
+    wordObjects = [];
    
     while(looking) {
         let tag = prompt("Please enter a tag to search for")
